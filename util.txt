@@ -1,0 +1,2 @@
+toda vez que for usar em uma nova maquina rodar npx prisma generate
+pesquisar como usar o prisma em base de dados legadas
